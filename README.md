@@ -26,7 +26,7 @@ Este proyecto esta creado para hacer un analisis de ventas de un dataset de un E
 
 ## 🤑 Correlacion de ventas por cliente
 
-![Correlacion de ventas por cliente](images/ventasxclientes.png)
+![Correlacion de ventas por cliente](images/clientesxventas.png)
 
 ## 🚀 Conclusión
 Proyecto enfocado en práctica de data wrangling, análisis exploratorio y visualización.
