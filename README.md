@@ -20,9 +20,13 @@ Este proyecto esta creado para hacer un analisis de ventas de un dataset de un E
 - No existe una correlación significativa entre clientes y ventas.
 - Algunas categorías muestran mayor volumen de ventas que otras.
 
-## 📷 Ejemplos
+## 📷 Ventas por Categoria
 
 ![Ventas por Categorias](images/ventas_categoria.png)
+
+## 🤑 Correlacion de ventas por cliente
+
+![Correlacion de ventas por cliente](images/ventasxclientes.png)
 
 ## 🚀 Conclusión
 Proyecto enfocado en práctica de data wrangling, análisis exploratorio y visualización.
